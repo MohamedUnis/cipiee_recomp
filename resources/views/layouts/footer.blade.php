@@ -23,14 +23,14 @@
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
-<script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}  "></script>
+<script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
 
 <!--Bootstrap Core-->
 <script src="{{ asset('assets/js/popper.min.js') }}"></script>
 
 
 <!--to view items on reach-->
-<script src="{{ asset('assets/js/jquery.appear.js') }} "></script>
+<script src="{{ asset('assets/js/jquery.appear.js') }}"></script>
 
 <!--Equal-Heights-->
 <script src="{{ asset('assets/js/jquery.matchHeight-min.js') }}"></script>
@@ -67,14 +67,14 @@
 <script src="{{ asset('assets/js/revolution/jquery.themepunch.revolution.min.js') }}"></script>
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
 <script src="{{ asset('assets/js/revolution/extensions/revolution.extension.actions.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.carousel.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.kenburn.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.layeranimation.min.js') }} "></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.migration.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.navigation.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.parallax.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.slideanims.min.js') }}"></script>
-<script src="{{ asset('assets/js/revolution/extensions/extensions/revolution.extension.video.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.carousel.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.kenburn.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.layeranimation.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.migration.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.navigation.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.parallax.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.slideanims.min.js') }}"></script>
+<script src="{{ asset('assets/js/revolution/extensions/revolution.extension.video.min.js') }}"></script>
 
 <!--Google Map API-->
 <script src="../maps/api/js?key=AIzaSyBJnKEvlwpyjXfS_h-J1Cne2fPMqeb44Mk"></script>
