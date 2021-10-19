@@ -3,7 +3,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12 col-sm-12 text-center">
-           <img src="images/logo-dark.png" alt="logo" class="footer-logo bottom45">
+           <img src="storage/{{setting('site.logo')}}" alt="logo" class="footer-logo bottom45">
             <ul class="social-icons small bottom25 wow fadeInUp" data-wow-delay="300ms">
                <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
                <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>

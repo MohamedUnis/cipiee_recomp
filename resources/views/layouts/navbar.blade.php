@@ -10,8 +10,8 @@
 <header class="site-header">
    <nav class="navbar navbar-expand-lg bg-transparent-light static-nav">
       <div class="container">
-         <a class="navbar-brand" href="index.html">
-         <img src="images/logo-dark.png" alt="logo">
+         <a class="navbar-brand" href="{{route('home')}}">
+         <img src="storage/{{ setting('site.logo') }} " alt="logo">
          </a>
          <button class="navbar-toggler navbar-toggler-right collapsed d-none" type="button" data-bs-toggle="collapse" data-bs-target="#xenav">
             <span> </span>
